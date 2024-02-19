@@ -1,14 +1,15 @@
 {
   "name": "@mxy_c/g-promise",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "create promise with no callback,g",
   "author": "mxyhi",
   "main": "./index.js",
-  "module": "./index.js",
+  "module": "./es/index.js",
   "types": "./index.d.ts",
   "files": [
     "./index.js",
     "./index.d.ts",
+    "./es",
     "./README.md"
   ],
   "scripts": {
